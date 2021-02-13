@@ -1,0 +1,14 @@
+### This is a user interface specification document for the user management screen.  
+
+User management screen consists of three parts.  
+The first part is at the top of the screen and cover the page from left to right. On the left there will be a button with a **plus sign** and **New User** on it.
+'Plus Sign' and 'New User' are white and the rest of the button is blue. To the right of the button, there will be a checkbox that says **Hide Disabled User**. To the right of the same line there is a button labeled **Save User**.
+The Save User  text is in white, the rest of the button is blue.
+
+The second part is below the first part and ends in the middle of the page from left to right. This is a table with four columns.  
+The names of the columns are **ID**, **User Name**, **Email** and **Enabled**, from left to right, respectively. The texts containin column names are white, rest of is blue. 
+
+The third part will start from the middle of the page until the end. In the upper left corner of this table there is a title written **New User**.
+This table consists of six lines. The names of the lines are **Username**, **Display Name**, **Phone**, **Email**, **User Roles** and **Enabled** respectively.
+In the first four lines, there are text fields opposite Username, Display Name, Phone and Email. Opposite the User Roles is an option box with **Guest**, **Admin** and **SuperAdmin** respectively.
+Finally, there is a checkbox opposite Enabled.
